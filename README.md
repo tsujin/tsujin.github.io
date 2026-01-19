@@ -1,6 +1,5 @@
-# Cybersecurity Portfolio
-
-This is my personal portfolio website showcasing my knowledge and projects in cybersecurity. The site features an interactive guide to common security protocols, attacks, and misconfigurations.
+# Page Info
+This is my personal github.io blog/portfolio page.
 
 ## Current Content
 
